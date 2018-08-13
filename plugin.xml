@@ -38,6 +38,8 @@
           <string>sumupmerchant</string>
           <string>yammer</string>
           <string>salesforce</string>
+          <string>weixin</string>
+          <string>wechat</string>
         </array>
       </config-file>
     </platform>
